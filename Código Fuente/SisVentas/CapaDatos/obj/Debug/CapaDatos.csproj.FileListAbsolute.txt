@@ -1,5 +1,0 @@
-C:\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
-C:\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
-C:\SisVentas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
-C:\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
-C:\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
