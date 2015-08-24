@@ -1,0 +1,3 @@
+C:\Users\mtorr_001\Documents\Visual Studio 2013\Projects\Sistema de Ventas\Código Fuente\SisVentas\SisVentas\bin\Debug\SisVentas.exe.config
+C:\Users\mtorr_001\Documents\Visual Studio 2013\Projects\Sistema de Ventas\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.exe
+C:\Users\mtorr_001\Documents\Visual Studio 2013\Projects\Sistema de Ventas\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.pdb
