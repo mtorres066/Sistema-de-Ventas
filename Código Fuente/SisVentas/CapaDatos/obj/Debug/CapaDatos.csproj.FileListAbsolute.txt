@@ -1,0 +1,7 @@
+C:\Users\mtorr_001\Documents\Visual Studio 2013\Projects\Sistema de Ventas\Código Fuente\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\mtorr_001\Documents\Visual Studio 2013\Projects\Sistema de Ventas\Código Fuente\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\mtorr_001\Documents\Visual Studio 2013\Projects\Sistema de Ventas\Código Fuente\SisVentas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\mtorr_001\Documents\Visual Studio 2013\Projects\Sistema de Ventas\Código Fuente\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\mtorr_001\Documents\Visual Studio 2013\Projects\Sistema de Ventas\Código Fuente\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\mtorr_001\Documents\Visual Studio 2013\Projects\Sistema de Ventas\Código Fuente\SisVentas\CapaDatos\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\mtorr_001\Documents\Visual Studio 2013\Projects\Sistema de Ventas\Código Fuente\SisVentas\CapaDatos\bin\Debug\MySql.Fabric.Plugin.dll
